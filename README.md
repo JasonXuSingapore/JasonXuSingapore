@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **JasonXuSingapore/JasonXuSingapore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2> Hi, I'm Jason! <img src="https://media.giphy.com/media/IfsByYYHyNlnINT46g/giphy.gif" width="70"></h2>
+<h2> Hi there 👋, I'm Jason! <img src="https://media.giphy.com/media/IfsByYYHyNlnINT46g/giphy.gif" width="70"></h2>
 <p><em>My blog is <a href="https:https://blog.csdn.net/qq_37021207?type=blog">666</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
   </em>
   
